@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12986598996",
+    "project_id": "new-app-ab42f",
+    "storage_bucket": "new-app-ab42f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12986598996:android:da82d9738eda40edde0fc1",
+        "android_client_info": {
+          "package_name": "com.example.bus_tracking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12986598996-9nr017edlu1eqtts659thovi9ql0aqbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLLKXqksukVmS9gD5Vg50lQjH3xD_iwQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12986598996-9nr017edlu1eqtts659thovi9ql0aqbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
