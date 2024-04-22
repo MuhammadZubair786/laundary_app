@@ -4,6 +4,8 @@ A new Flutter project.
 https://docs.google.com/document/d/1J8mZCqa4rXIlEo6UozZicNwEMs3wlZNIlBo16mo5qTg/edit?usp=sharing
 ## Getting Started
 
+https://www.figma.com/file/Ci1fYWSJbzRSQEUMXXjoQF/Untitled?type=design&node-id=2%3A2&mode=design&t=jMfjlSQW5CEsspYf-1
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
